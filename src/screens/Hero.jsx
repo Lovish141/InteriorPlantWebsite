@@ -59,7 +59,7 @@ const Hero = () => {
      </FadeIn>
      <FadeIn delay={0.2} direction="up" padding fullWidth>
       <div className="relative w-full xs:w-[460px] mt-11 ">
-        <input type="text" placeholder="Search" className="rounded-full w-full pl-6 pr-[68px] py-4 bg-primary outline-none text-white text-base xs:text-lg placeholder-white" />
+        <input type="text" placeholder="Search" className="rounded-full w-full pl-6 pr-[68px] py-4 bg-white outline-none text-fontGray text-base xs:text-lg placeholder-fontGray" />
         <img src={searchIcon} alt="" className="absolute top-2/4 -translate-y-2/4 right-3 h-11 w-11 cursor-pointer"></img>
       </div>
      </FadeIn>

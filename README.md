@@ -47,7 +47,7 @@ These instructions will help you set up the project on your local machine for de
 Now you can access the website locally by opening your web browser and visiting http://localhost:5173/
 
 Site is live at:
-https://lovish141.github.io/InteriorPlantWebsite/
+https://lovish141.github.io/InteriorPlantWebsite/m
 
 
 
